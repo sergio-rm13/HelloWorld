@@ -8,11 +8,11 @@
 
 - Contiene un Activity con un botón, cuya función es mostrar un mensaje ("Hola Mundo").
 
-  <img src="./Capturas/Captura2.png" style="zoom: 33%;" />
+  <img src="./Capturas/captura.png" />
 
   - También hemos programado para que en tiempo de ejecución cambie el contenido del TextView donde ponía Hola Mundo ahora pone Adiós Mundo y modifique el color del contenido del TextView...
 
-    <img src="./Capturas/Captura.png"  />
+    <img src="./Capturas/Foto2.png"  />
 
 - Plataforma: Java.
 
@@ -30,7 +30,7 @@
 
   
 
-  <img src="./Capturas/ic_launcher.png" style="zoom: 25%;" />
+  <img src="./Capturas/ic_launcher.png" />
 
   
 
